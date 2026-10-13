@@ -14,3 +14,8 @@ I want to learn Git and GitHub
 and understand how developers collaborate.
 
 My Git and GitHub practice project.
+
+
+## my favourite laguage
+
+Python is my favourite language
