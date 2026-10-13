@@ -13,8 +13,15 @@ I am learning software development.
 I want to learn Git and GitHub
 and understand how developers collaborate.
 
-My Git and GitHub practice project.
+My Git and GitHub practice project
 ## my favourite language 
 
 
 java is my favourite language
+
+
+
+## my favourite laguage
+
+Python is my favourite language
+
